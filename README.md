@@ -1,4 +1,4 @@
-<h1>Analyze a Vulnerable System fora Small Business</h1>
+<h1>Analyze a Vulnerable System for a Small Business</h1>
 <h2>Scenario</h2>
 <I>This scenario is based on a fictional company:</I>
 <br /><br />
