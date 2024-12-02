@@ -7,4 +7,4 @@ I am a newly hired cybersecurity analyst for an e-commerce company. The company 
 
 I am tasked with completing a vulnerability assessment of the situation to communicate the potential risks to decision makers at the company. I must create a written report that explains how the vulnerable server is a risk to business operations and how it can be secured.
 
-<h3><a href="https://github.com/TasneemSiddiqui/AnalyzeAVulnerableSystem/new/main"><b>Vulnerability assessment report</b></a></h3>
+<h3><a href="https://github.com/TasneemSiddiqui/AnalyzeAVulnerableSystem/blob/main/VulnerabilityAssessmentReport.md"><b>Vulnerability assessment report</b></a></h3>
